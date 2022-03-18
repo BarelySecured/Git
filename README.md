@@ -37,5 +37,5 @@ List can be achieved by using - , * or 1. at the beginning of the sentence.
 - [x] mask as complete, \(to describe)
 
 ## Footnotes
-Using [ ^ 1] [^1] @name to tag people.
+Using [ ^ 1] [^1].
 [^1] footnotes always at the bottom
